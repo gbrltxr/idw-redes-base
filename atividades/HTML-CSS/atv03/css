@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+
+    p {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif
+    }
+
+    h1, h2 {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif
+    }
+
+    negrito {
+        font-weight: bold;
+    }
+
+    italico {
+        font-style: italic;
+    }
+
+    a {
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(87, 173, 190);
+    }
+
+    marcado {
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+    }
+
+    ul, ol {
+        font-family: Arial, Helvetica, sans-serif; font-style: normal;
+        color: rgb(226, 240, 117);
+    }
+
+}
