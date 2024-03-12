@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <p></p>
+  <h1>João Gabriel </h1>
+  &#x1F310; <strong>Menu de Navegação:</strong>
+  <a href="#Apresentação">Apresentação</a>|
+  <a href="Disciplina">Disciplina</a>|
+  <a href="Conteúdo Planejado">Conteúdo Planejado</a>|
+  <a href="O Que Foi Aprendido">O Que Foi Aprendido</a>|
+  <a href="Links Úteis">Links Úteis</a>|
+  <hr>
+  <p></p>
+  <h2>Apresentação &#x1F917;</h2>
+  Olá, meu nome é <strong>João Gabriel</strong>, eu tenho 18 anos e sou aluno do curso <em>Técnico Integrado em Redes de Computadores </em> no <strong>IFCE - <em>Campus Tauá</em></strong>. Estou no terceiro ano do curso e meu objetivo é ir para JIF's.
+  <hr>
+  <p></p>
+  <h2>Disciplinas &#x1F4DA;</h2>
+  No momento estou cursando as seguintes disciplinas técnicas:
+  <ul>
+    <li>Banco de dados</li>
+    <li>Gerença e segurança de redes</li>
+    <li><mark>Introdução ao Desenvolvimento Web (IDW)</mark></li>
+    <li>Redes sem fio</li>
+  </ul>
+  <hr>
+  <p></p>
+  <h2>Conteúdo Planejado para IDW &#x1F3AF;</h2>
+  Essa é a sequência de conteúdos que vamos estudar em IDW:
+  <ol>
+    <li>Introdução á Internt e Web</li>
+    <li><em>HyperText Markup Language</em> (HTML)</li>
+    <li><em>Cascading Style Sheets</em> (CSS)</li>
+    <li><em>Frameworks front-end</em></li>
+  </ol>
+  <hr>
+  <p></p>
+  <h2>O Que Aprendemos Até Aqui em IDW &#x2705;</h2>
+  Na disciplina de Introdução ao Desenvolvimento Web estudamos às tecnologias Web básicas relacionadas ao desenvolvimento de interfaces de sites e sistemas Web. Até aqui, esudamos ao seguintes conceitos sobre HTML:
+  <ul>
+    <li>O Que é HTML?</li>
+    <li>Estrutura basíca de um documento HTML</li>
+    <ul>
+      <li>tag <code>&lt;head&gt;</code></li>
+      <li>tag<code>&lt;body&gt;</code></li>
+      <li>declaração<code> &lt;!DOCTYPE html&gt;</code></li>
+      <li>atributo lang na tag<code> &lt;html&gt;</code></li>
+    </ul>
+<li>Tags Basícas:Ênfase e Destaque</li>
+    <ul>
+    <li title="define um texto importante">A tag <code>"strong"</code></li>
+    <li title="define um texto enfatizado">A tag,<code>"em"</code></li>
+      <li title="define um texto inserido">A tag <code>"ins";</code></li>
+      <li>A tag<code>"del"&lt; define um texto excluido&gt;</code></li>
+      <li>A tag<code>"mark"&lt;define um texto destacado&gt;</code></li>
+      <li>A tag<code>"small"&lt;define um texto de tamanho menor&gt;</code></li>
+      </ul>
+    <li>Tags Basícas: Tags br e hr</li>
+    <ul>
+      <li>A tag <code>"br"&lt; insere uma quebra de linha no texto&gt;</code></li>
+      <li>A tag <code>"hr"&lt; insere uma linha de separação horizontal na página&gt;</code></li>
+    </ul>
+    <li>Tags Básicas: Estilo de Fonte </li>
+    <ul>
+      <li>A tag <code>"b"&lt; deixa um texto em negrito&gt;</code></li>
+      <li>A tag<code>"i"&lt; deixa um texto em estilo itálico&gt;</code></li>
+      <li>A tag<code>"u"&lt;aplica um sublinhado ao texto&gt;</code></li>
+      <li>A tag<code>"s"&lt; aplica uma lista riscada ao texto&gt;</code></li>
+    </ul>
+    <li>Tags Básicas: Listas</li>
+    <ul>
+      <li>A tag<code>"ul"&lt;define uma lista não ordenada,que não importa a ordem &gt;</code></li>
+      <li>A tag<code>"ol"&lt;define uma lista não ordenada,que importa a ordem&gt;</code></li>
+      <li>A tag<code>"dl"&lt;é uma lista especial aonde a ideia é ter uma conjuntos de termos&gt;</code></li>
+    </ul>
+  </ul>
+  <hr>
+  <p>
+  <h2>Links Úteis &#x1F517;</h2>
+  </p>
+  <ul>
+    <li><a href="https://github.com/lucas-inm/idw-redes-base" target="_blank"> GitHub da Disciplina</a></li>
+    <li><a href="https://codepen.io/" target="_blank">CodePen</a></li>
+    <li><a href="https://www.w3schools.com/" target="_blank">W3Schools</a></li>
+    <li><a href="https://developer.mozilla.org/pt-BR/" target="_blank">MDN Web Docs</a></li>
+  </ul>
+
+</body>
+
+</html>
